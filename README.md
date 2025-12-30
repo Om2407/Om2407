@@ -1,5 +1,7 @@
-# 💫 About Me:
-I have learned Core Java with Data Structures and Algorithms, along with modern web development technologies such as HTML, CSS, Tailwind CSS, JavaScript, TypeScript, React, and Context API.<br>On the backend side, I have experience working with Node.js, Express.js, and MongoDB.
+I have learned Core Java with Data Structures and Algorithms, along with modern web development technologies such as HTML, CSS, Tailwind CSS, JavaScript, TypeScript, React, Next.js, and Context API.
+On the backend side, I have hands-on experience with Node.js, Express.js, and MongoDB. I am also proficient in Git and GitHub for version control and collaborative development.
+
+I focus on writing clean, efficient code and building scalable, user-friendly full-stack applications. I have strengthened my problem-solving skills through DSA and by working on real-world projects.
 
 
 # 💻 Tech Stack:
