@@ -52,15 +52,22 @@ I'm a final-year B.Tech Computer Science student and SDE Intern at CreditSea. I 
 
 ### 📊 GitHub Stats & Contributions
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Om2407&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Om2407&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="Om's GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Om2407&layout=compact&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="Top Languages" />
+</p>
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Om2407&theme=dark&hide_border=false)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Om2407&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Om2407&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Om2407&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
+</p>
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Om2407&theme=react-dark&hide_border=true)
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Om2407&theme=darkhub&no-frame=true&row=1&column=7)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Om2407&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+</p>
 
 ---
 
