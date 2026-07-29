@@ -58,7 +58,7 @@ I'm a final-year B.Tech Computer Science student and SDE Intern at CreditSea. I 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Om2407&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Om2407&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
