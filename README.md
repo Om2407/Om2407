@@ -2,15 +2,14 @@
 <h3 align="center">SDE Intern @ CreditSea | Full-Stack Developer | Final-Year CS Student</h3>
 
 <p align="center">
-I'm a final-year B.Tech Computer Science student, currently working as an SDE Intern at CreditSea, building internal platforms (HRMS, DSA-Service, lead tracking systems). I love turning ideas into scalable, user-friendly full-stack products.
+I'm a final-year B.Tech Computer Science student and SDE Intern at CreditSea. I love turning ideas into scalable, user-friendly full-stack products.
 </p>
 
-- 🔭 Currently building internal HRMS & DSA partner-integration platforms at **CreditSea**
 - 🌱 Strengthening my **DSA** and **system design** fundamentals
 - 💻 Comfortable across the stack — **React/Next.js** on the frontend, **Node.js/Express/MongoDB** on the backend
 - 🧠 Solid foundation in **Core Java & Data Structures and Algorithms**
 - ⚡ Focused on writing clean, efficient, and scalable code
-- 📫 Reach me on [LinkedIn](#) | [Portfolio](#)
+- 📫 Reach me on [LinkedIn](#) | [Portfolio](https://omgupta-portfolio-six.vercel.app/)
 
 ---
 
