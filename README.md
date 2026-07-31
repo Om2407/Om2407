@@ -1,10 +1,15 @@
 <h1 align="center">Hi 👋, I'm Om Gupta</h1>
-<h3 align="center">SDE Intern @ CreditSea | Full-Stack Developer | Final-Year CS Student</h3>
+<h3 align="center">SDE Intern @ CreditSea | Full-Stack Developer | B.Tech CS Graduate</h3>
 
 <p align="center">
-I'm a final-year B.Tech Computer Science student and SDE Intern at CreditSea. I love turning ideas into scalable, user-friendly full-stack products.
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;SDE+Intern+%40+CreditSea;Building+scalable+web+apps;B.Tech+CS+Graduate+%E2%80%A2+2026" alt="Typing SVG" />
 </p>
 
+<p align="center">
+I'm a B.Tech Computer Science graduate and SDE Intern at CreditSea. I love turning ideas into scalable, user-friendly full-stack products.
+</p>
+
+- 🎓 B.Tech in Computer Science, graduated 2026
 - 🌱 Strengthening my **DSA** and **system design** fundamentals
 - 💻 Comfortable across the stack — **React/Next.js** on the frontend, **Node.js/Express/MongoDB** on the backend
 - 🧠 Solid foundation in **Core Java & Data Structures and Algorithms**
