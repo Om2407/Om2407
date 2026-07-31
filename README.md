@@ -14,7 +14,7 @@ I'm a B.Tech Computer Science graduate and SDE Intern at CreditSea. I love turni
 - 💻 Comfortable across the stack — **React/Next.js** on the frontend, **Node.js/Express/MongoDB** on the backend
 - 🧠 Solid foundation in **Core Java & Data Structures and Algorithms**
 - ⚡ Focused on writing clean, efficient, and scalable code
-- 📫 Reach me on [LinkedIn](#) | [Portfolio](https://omgupta-portfolio-six.vercel.app/)
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/om-gupta-4a3549294) | [Portfolio](https://omgupta-portfolio-six.vercel.app/)
 
 ---
 
