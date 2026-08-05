@@ -23,13 +23,13 @@ I'm a B.Tech Computer Science graduate and SDE Intern at CreditSea. I love turni
 | Project | Description | Tech Stack |
 |---|---|---|
 | **[Dynoz AI Landing Page](https://dynoz-ai-livid.vercel.app)** | AI-powered landing page with immersive 3D visuals | Next.js 14, Three.js, Gemini 2.5 Flash |
-| **American Dream Mall Sales Deck** | Interactive multi-section sales deck with an AI concierge | React, Vite, TypeScript |
-| **AI-Powered LMS** | Full-stack learning management system | React, Node.js, MongoDB |
-| **Real-Time Interview Platform** | Live coding/interview platform with video & auth | MERN, Stream, Clerk, Inngest |
+| **[American Dream Mall Sales Deck](https://american-dream-mall-om.vercel.app/)** | Interactive multi-section sales deck with an AI concierge | React, Vite, TypeScript |
+| **[AI Powered LMS WebSite](https://ai-lms-website-omfr.onrender.com/)** | Full-stack learning management system | React, Node.js, MongoDB |
+| **[Real-Time Interview Platform](https://interview-frontend-r67t.onrender.com/)** | Live coding/interview platform with video & auth | MERN, Stream, Clerk, Inngest |
 | **Peblo Notes (AI-Notion)** | Full-stack AI-powered notes app | MERN, Gemini API |
-| **StyleSync** | Design token extractor for design systems | React, Node.js |
+| **[StyleSync](https://stylesync-tawny.vercel.app/)** | Design token extractor for design systems | React, Node.js |
 | **Lucky Spin Wheel** | Gamified spin-to-win app for a local retail shop | Firebase, Zustand, Canvas, Framer Motion |
-| **CreditSea Loan Management System** | Assignment project that led to my internship offer | MERN Stack |
+| **[CreditSea Loan Management System](https://credit-sea-omgupta.vercel.app/)** | Assignment project that led to my internship offer | MERN Stack |
 
 ---
 
